@@ -7,8 +7,11 @@ Based on the features created using Exploratory Analysis, I understood how we ca
 The workflow can be summarized as:
 
   Data Preparation and Feature engineering(60%)
+  
   Creating a baseline prediction using linear regression(5%)
+  
   Building Models without Feature Engineering(10%)
+  
   Building Models with Feature Engineering(25%)
  
  Feature engineering significantly improved the predictive ability of our Machine Learning model and for further understanding, please read the report attached.
